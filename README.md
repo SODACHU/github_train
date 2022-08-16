@@ -1,2 +1,2 @@
 # github_train
-train tocollective use github
+train to collective use github
